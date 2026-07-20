@@ -1,2 +1,4 @@
 # MasterClass-Prueba
-Clase 
+## Clase de GitHub 
+
+Profe. Carlos Montero
